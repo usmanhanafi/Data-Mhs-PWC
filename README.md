@@ -3,7 +3,11 @@
  1. index.php
  2. proses.php
  3. style.css
-
+ 4. koneksi.php
+ 
+ # Hapus file readme.md (ndak podo wkwk)
+ # selain 4 file tadi tolong harus dihapus
+  
  #tutorial:
  1. download file ini
  2. harus install aplikasi xampp dulu
